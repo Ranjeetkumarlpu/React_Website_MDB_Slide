@@ -7,6 +7,6 @@ Source :   https://mdbootstrap.com/docs/react/#demo
 Link Host: https://mdbgo.com/
 
 Steps : 01. File Download 
-        02. Open VS
+        02. Open VS Terminal
         03. npm install
         04. npm start
